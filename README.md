@@ -1,7 +1,7 @@
 # Blockchain Explorer based on Steem-JS (For private steemd based Blockchains)
 Steem explorer is a client-side block explorer for steem-like blockchains. It uses Steem-JS API to query users, posts, and transactions directly to the seed nodes.
 
-![](https://cdn.steemitimages.com/DQmbHSzTWPQHwZkFJr185z3P7ZQhwVZtWDPmS8y37Gm9HuG/image.png)
+![](https://images2.weku.io/DQmPwvwxgBER3zS82B7PtDYTM3tbiT3z5qQbNXB9eQ2kf2Q/image.png)
 
 ## Config
 Change the configuration file `src/config.js` with the symbols and rpc_node of the blockchain.
